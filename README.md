@@ -1,5 +1,7 @@
+![giphy](https://user-images.githubusercontent.com/83579946/170533609-844d1d8e-1262-4dbd-a616-3e278bb78b17.gif)
 
- <img src="https://user-images.githubusercontent.com/83579946/158069225-729602e9-d272-4891-8627-4b4670eab6cf.png" height="300" left="50%">
+
+
 - 👋 Hi, I’m <b><i>Satya Prakash</i></b>✌ </br>
 - 👀 Favourite Tech : C++,Java,Android Development ...</br>
 - 🌱 I’m currently learning <b>DS and Algo</b></br>
