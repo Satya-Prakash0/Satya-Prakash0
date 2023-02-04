@@ -26,7 +26,7 @@
 - 💞️ <i>I’m looking for an oppurtunity to work in an open source projects</i></br>
 - 🎵 Love to listen music🎉✨ </br>
 - 📨 gmail: satya1122001@gmail.com </br> 
-- 💼 LinkedIn:https://www.linkedin.com/in/𝐒𝐚𝐭𝐲𝐚-𝐏𝐫𝐚𝐤𝐚𝐬𝐡-896747208</br>
+- 💼 LinkedIn:[https://www.linkedin.com/in/𝐒𝐚𝐭𝐲𝐚-𝐏𝐫𝐚𝐤𝐚𝐬𝐡-896747208](https://www.linkedin.com/in/satya-prakash-896747208/)</br>
 </br>
 
 ### :hammer_and_wrench: Languages and Tools :
